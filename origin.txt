@@ -1,0 +1,100 @@
+Uri: http://j4.gzyt520.com/
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\index.htm
+Content Type: text/html
+
+Uri: http://j4.gzyt520.com/css/index.css
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\css\index.css
+Content Type: text/css
+
+Uri: http://j4.gzyt520.com/js/40412d990b074101a44c1300477d9ec9.js
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\js\40412d990b074101a44c1300477d9ec9.js
+Content Type: application/javascript
+
+Uri: http://j4.gzyt520.com/js/jquery.1.10.2.min.js
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\js\jquery.1.10.2.min.js
+Content Type: application/javascript
+
+Uri: http://j4.gzyt520.com/js/jquery.mobile.custom.min.js
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\js\jquery.mobile.custom.min.js
+Content Type: application/javascript
+
+Uri: http://j4.gzyt520.com/js/traceability1.2.js
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\js\traceability1.2.js
+Content Type: application/javascript
+
+Uri: http://j4.gzyt520.com/js/jquery-3.3.1.min.js
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\js\jquery-3.3.1.min.js
+Content Type: application/javascript
+
+Uri: http://j4.gzyt520.com/js/clipboard.min.js
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\js\clipboard.min.js
+Content Type: application/javascript
+
+Uri: http://j4.gzyt520.com/picture/yangfuqiang.jpg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\yangfuqiang.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/t2.jpg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\t2.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/2013081621250385631.jpg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\2013081621250385631.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/2.jpg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\2.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/47.jpg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\47.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/3.jpg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\3.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/4.jpg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\4.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/1.jpg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\1.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/6.jpg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\6.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/7.jpg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\7.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/8.jpg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\8.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/9.jpeg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\9.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/10.jpg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\10.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/11.jpg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\11.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/12.png
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\12.png
+Content Type: image/png
+
+Uri: http://j4.gzyt520.com/picture/13.jpg
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\13.jpg
+Content Type: image/jpeg
+
+Uri: http://j4.gzyt520.com/picture/14.png
+File Name: C:\Users\Administrator\Desktop\copy网页\j4.gzyt520.com\picture\14.png
+Content Type: image/png
+
